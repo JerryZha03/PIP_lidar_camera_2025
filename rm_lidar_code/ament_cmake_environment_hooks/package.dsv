@@ -1,0 +1,4 @@
+source;share/mid70pp/local_setup.bash
+source;share/mid70pp/local_setup.dsv
+source;share/mid70pp/local_setup.sh
+source;share/mid70pp/local_setup.zsh

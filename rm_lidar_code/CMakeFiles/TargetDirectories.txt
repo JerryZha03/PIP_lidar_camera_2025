@@ -1,0 +1,11 @@
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/livoxsdk_static.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/uninstall.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/mid70pp_uninstall.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/pub.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/test.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/edit_cache.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/rebuild_cache.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/list_install_components.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/install.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/install/local.dir
+/home/jerry/PIP_lidar_camera_2025/rm_lidar_code/CMakeFiles/install/strip.dir

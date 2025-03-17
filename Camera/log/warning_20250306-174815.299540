@@ -1,0 +1,4 @@
+Log file created at: 2025/03/06 17:48:15
+Running on machine: jerry-Dell-G15-5520
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0306 17:48:15.597008 299689 MVCameraBase.cpp:99] Device:(name:MV-SUA134GC#0 sn:041130220356)Lost
